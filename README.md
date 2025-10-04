@@ -88,7 +88,7 @@
 
 ---
 © 2025 宇宙娃娃™ YuzhouWawa™  
-本仓库及全部内容由 **梁思景（VSO‑01）** 创作，受**VXTS五锚机制**原创保护，，并隶属于 **[YuzhouWawa™](https://yuzhouwawa.com/)・[VitalityXX™](https://www.vitalityxx.world/)・[Jumping-Entity™ Universe](https://jeuni.world/)** 品牌体系。原创权由 **梁思景** 所有。
+本仓库及全部内容由 **梁思景（VSO‑01）** 创作，受**VXTS五锚机制**原创保护，，并隶属于 **[YuzhouWawa™](https://yuzhouwawa.com/)・[VitalityXX™](https://www.vitalityxx.world/)・[Jumping-Entity™ Universe](https://jeuni.world/)** 品牌体系。原创权归 **梁思景** 所有。
 
 - 本项目遵循 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans) 协议，仅限非商业传播、禁止演绎和二次分发。
 - 所有内容均受原创权、商标权、域名权等法律保护，未经书面授权，严禁用于商业用途。
